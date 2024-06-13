@@ -1,2 +1,2 @@
 # myfirstgit
-This is My FIRST FOLDER
+This is My FIRST git FOLDER
